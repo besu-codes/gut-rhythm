@@ -2,7 +2,7 @@
    Caches the whole app shell so it opens with no network.
    Bump CACHE when you change index.html so phones pick up the new version. */
 
-const CACHE = "gut-rhythm-v1";
+const CACHE = "gut-rhythm-v2";
 
 const FILES = [
   "./",
